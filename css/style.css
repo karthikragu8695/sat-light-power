@@ -58,7 +58,7 @@
 }
 
 .blog-section {
-    padding: 7rem 0 12rem 0; }
+    padding: 1rem 0 1rem 0; }
     .blog-section .post-entry a {
       text-decoration: none; }
     .blog-section .post-entry .post-thumbnail {
@@ -751,6 +751,30 @@ h6,
 
 .bg-header {
     background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/bright-1851267_1280.jpg) center center no-repeat;
+    background-size: cover;
+}
+.bg-price {
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(https://images7.alphacoders.com/114/thumb-1920-1143805.jpg) center center no-repeat;
+    background-size: cover;
+}
+.bg-feature {
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(https://img.freepik.com/premium-photo/photo-solar-powered-street-light-night_778780-8964.jpg) center center no-repeat;
+    background-size: cover;
+}
+.bg-team {
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(https://www.icanhasgif.com/wp-content/uploads/2015/07/Best-Outdoor-Solar-Path-Lights.jpg) center center no-repeat;
+    background-size: cover;
+}
+.bg-testimonial {
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(https://greenfrogsystems.com/wp-content/uploads/2019/02/slide-2.jpg) center center no-repeat;
+    background-size: cover;
+}
+.bg-service {
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/pexels-ricky-rijan-2336351.jpg) center center no-repeat;
+    background-size: cover;
+}
+.bg-contact {
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(https://media.istockphoto.com/id/635723104/photo/creating-wireless-technologies-mixed-media.jpg?s=612x612&w=0&k=20&c=15oUZlpPmiTwxyXDLeUxIz6aOCcQW-3k0BvSmpR0Jzs=) center center no-repeat;
     background-size: cover;
 }
 
