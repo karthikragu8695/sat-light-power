@@ -469,9 +469,7 @@ h6,
     /* transform: rotate(-45deg); */
 }
 
-.service-item .service-icon i {
-    /* transform: rotate(45deg); */
-}
+
 
 .service-item a.btn {
     position: absolute;
@@ -754,19 +752,19 @@ h6,
     background-size: cover;
 }
 .bg-price {
-    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(https://images7.alphacoders.com/114/thumb-1920-1143805.jpg) center center no-repeat;
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/istockphoto-1220089487-612x612-1.jpg) center center no-repeat;
     background-size: cover;
 }
 .bg-feature {
-    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(https://img.freepik.com/premium-photo/photo-solar-powered-street-light-night_778780-8964.jpg) center center no-repeat;
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/SAT-2.jpg) center center no-repeat;
     background-size: cover;
 }
 .bg-team {
-    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(https://www.icanhasgif.com/wp-content/uploads/2015/07/Best-Outdoor-Solar-Path-Lights.jpg) center center no-repeat;
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/Project-satlightspower.com-6.50.00-PM.jpeg) center center no-repeat;
     background-size: cover;
 }
 .bg-testimonial {
-    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(https://greenfrogsystems.com/wp-content/uploads/2019/02/slide-2.jpg) center center no-repeat;
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/SAT-3.jpg) center center no-repeat;
     background-size: cover;
 }
 .bg-service {
@@ -774,7 +772,7 @@ h6,
     background-size: cover;
 }
 .bg-contact {
-    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(https://media.istockphoto.com/id/635723104/photo/creating-wireless-technologies-mixed-media.jpg?s=612x612&w=0&k=20&c=15oUZlpPmiTwxyXDLeUxIz6aOCcQW-3k0BvSmpR0Jzs=) center center no-repeat;
+    background: linear-gradient(rgba(9, 30, 62, .7), rgba(9, 30, 62, .7)), url(../img/SAT-1.jpg) center center no-repeat;
     background-size: cover;
 }
 
